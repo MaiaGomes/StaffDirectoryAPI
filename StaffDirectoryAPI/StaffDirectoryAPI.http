@@ -1,0 +1,6 @@
+@StaffDirectoryAPI_HostAddress = http://localhost:5241
+
+GET {{StaffDirectoryAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

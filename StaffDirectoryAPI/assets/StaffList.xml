@@ -1,0 +1,57 @@
+<StaffList>
+	<Staff>
+		<ID>1</ID>
+		<Name>John Smith</Name>
+		<Phone>02 9988 2211</Phone>
+		<Department>1</Department>
+		<Street>1 Code Lane</Street>
+		<City>Javaville</City>
+		<State>NSW</State>
+		<ZIP>100</ZIP>
+		<Country>Australia</Country>
+	</Staff>
+	<Staff>
+		<ID>2</ID>
+		<Name>Sue White</Name>
+		<Phone>03 8899 2255</Phone>
+		<Department>2</Department>
+		<Street>16 Bit Way</Street>
+		<City>Byte Cove</City>
+		<State>QLD</State>
+		<ZIP>1101</ZIP>
+		<Country>Australia</Country>
+	</Staff>
+	<Staff>
+		<ID>3</ID>
+		<Name>Bob O Bits</Name>
+		<Phone>05 7788 2255</Phone>
+		<Department>3</Department>
+		<Street>8 Silicon Road</Street>
+		<City>Cloud Hills</City>
+		<State>VIC</State>
+		<ZIP>1001</ZIP>
+		<Country>China</Country>
+	</Staff>
+	<Staff>
+		<ID>4</ID>
+		<Name>Mary Blue</Name>
+		<Phone>06 4455 9988</Phone>
+		<Department>2</Department>
+		<Street>4 Processor Blvd</Street>
+		<City>Appletson</City>
+		<State>NT</State>
+		<ZIP>1010</ZIP>
+		<Country>Australia</Country>
+	</Staff>
+	<Staff>
+		<ID>5</ID>
+		<Name>Mick Green</Name>
+		<Phone>02 9988 1122</Phone>
+		<Department>3</Department>
+		<Street>700 Bandwidth St</Street>
+		<City>Bufferland</City>
+		<State>NSW</State>
+		<ZIP>110</ZIP>
+		<Country>Australia</Country>
+	</Staff>
+</StaffList>
